@@ -1,0 +1,162 @@
+{
+	"TranslatedContents": [
+		{
+			"LanguageId": 1,
+			"LanguageName": "Hrvatski",
+			"Topics": [
+				{
+					"Name": "Pjesma 1",
+					"Description" : "Daniel Dumile ,najpoznatiji pod svojim umjetničkim imenom MF Doom ili jednostavno DOOM, bio je Britansko-američki reper i producent. Poznat po svojoj zamršenoj igri riječi, prepoznatljivoj metalnoj maski i superzlikovcu na pozornici, Dumile je postao glavna figura underground hip hopa.",
+					"TopicId" : 0,
+					"Media": [
+						{
+							"Name": "Pregled",
+							"Photos": [
+								{
+									"Path": "/Images/coverSong1_0.png",
+									"Name": "Cover albuma"
+								},
+								{
+									"Path": "/Images/coverSong1_1.png",
+									"Name": "Slika glazbenika"
+								}
+							]
+						},
+						{
+							"Name": "MF DOOM - Doomsday",
+							"FilePath": "/Music/MF DOOM - Doomsday.mp3"
+						}
+					]
+				},
+				{
+					"Name": "Pjesma 2",
+					"Description" : "Filip Motovunski je drum and bass/jungle/hip hop DJ i producent iz malog gradića Motovuna u Istri. Prije više od 10 godina počeo je kao producent beatova, tekstopisac i MC u svojem PCP bandu kojeg je dijelio s Ivanom Babićem iz Motovuna.",
+					"TopicId" : 1,
+					"Media": [
+						{
+							"Name": "Pregled",
+							"Photos": [
+								{
+									"Path": "/Images/coverSong2_0.png",
+									"Name": "Cover albuma"
+								},
+								{
+									"Path": "/Images/coverSong2_1.png",
+									"Name": "Slika glazbenika"
+								}
+							]
+						},
+						{
+							"Name": "Filip Motovunski - Come with us",
+							"FilePath": "/Music/Filip Motovunski - Come with us.mp3"
+						}
+					]
+				},
+				{
+					"Name": "Pjesma 3",
+					"Description" : "Jam Baxter je engleski reper iz Londona, UK. Od 2009. izdao je 7 solo albuma i nekoliko EP-a za izdavače High Focus Records sa sjedištem u Velikoj Britaniji, a od 2019. Blah Records. Poznat je po svojim nadrealnim i zagonetnim tekstovima, koji su različito opisivani kao neobični",
+					"TopicId" : 2,
+					"Media": [
+						{
+							"Name": "Pregled",
+							"Photos": [
+								{
+									"Path": "/Images/coverSong3_0.png",
+									"Name": "Cover albuma"
+								},
+								{
+									"Path": "/Images/coverSong3_1.png",
+									"Name": "Slika glazbenika"
+								}
+							]
+						},
+						{
+							"Name": "Jam Baxter - Brains",
+							"FilePath": "/Music/Jam Baxter - Brains.mp3"
+						}
+					]
+				}
+				
+			]
+		},
+		{
+			"LanguageId": 2,
+			"LanguageName": "English",
+			"Topics": [
+				{
+					"Name": "Song 1",
+					"Description" : "Daniel Dumile, best known by his stage name MF Doom or simply DOOM, was a British-American rapper and producer. Known for his intricate wordplay, signature metal mask and on-stage supervillain, Dumile has become a staple of underground hip hop.",
+					"TopicId" : 0,
+					"Media": [
+						{
+							"Name": "Pregled",
+							"Photos": [
+								{
+									"Path": "/Images/coverSong1_0.png",
+									"Name": "Cover albuma"
+								},
+								{
+									"Path": "/Images/coverSong1_1.png",
+									"Name": "Slika glazbenika"
+								}
+							]
+						},
+						{
+							"Name": "MF DOOM - Doomsday",
+							"FilePath": "/Music/MF DOOM - Doomsday.mp3"
+						}
+					]
+				},
+				{
+					"Name": "Song 2",
+					"Description" : "Filip Motovunski is a drum and bass/jungle/hip hop DJ and producer from the small town of Motovun in Istria. More than 10 years ago, he started as a beat producer, songwriter and MC in his PCP band, which he shared with Ivan Babić from Motovun.",
+					"TopicId" : 1,
+					"Media": [
+						{
+							"Name": "Pregled",
+							"Photos": [
+								{
+									"Path": "/Images/coverSong2_0.png",
+									"Name": "Cover albuma"
+								},
+								{
+									"Path": "/Images/coverSong2_1.png",
+									"Name": "Slika glazbenika"
+								}
+							]
+						},
+						{
+							"Name": "Filip Motovunski - Come with us",
+							"FilePath": "/Music/Filip Motovunski - Come with us.mp3"
+						}
+					]
+				},
+				{
+					"Name": "Song 3",
+					"Description" :"Jam Baxter is an English rapper from London, UK. Since 2009 he has released 7 solo albums and several EPs on UK-based High Focus Records and since 2019 Blah Records. He is known for his surreal and enigmatic lyrics , which have been variously described as unusual",
+					"TopicId" : 2,
+					"Media": [
+						{
+							"Name": "Pregled",
+							"Photos": [
+								{
+									"Path": "/Images/coverSong3_0.png",
+									"Name": "Cover albuma"
+								},
+								{
+									"Path": "/Images/coverSong3_1.png",
+									"Name": "Slika glazbenika"
+								}
+							]
+						},
+						{
+							"Name": "Jam Baxter - Brains",
+							"FilePath": "/Music/Jam Baxter - Brains.mp3"
+						}
+					]
+				}
+				
+			]
+		}
+	]
+}
